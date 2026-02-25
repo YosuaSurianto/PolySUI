@@ -1,0 +1,4 @@
+export const RPC_URL = import.meta.env.VITE_SUI_FULLNODE_URL;
+export const TESTNET_POLYSUI_PACKAGE_ID =
+  "0x54316fa46c0d8ab82cbd8cc2f87650ee57639ce87331863987700587d439481c";
+export const TESTNET_CLOCK_ID = "0x6";
